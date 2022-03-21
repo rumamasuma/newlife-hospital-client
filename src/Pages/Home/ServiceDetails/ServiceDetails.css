@@ -1,0 +1,12 @@
+.serviceDetail-card{
+    border: 2px solid seagreen;
+    border-radius: 20px;
+    /* height: 600px; */
+    width: 900px;
+}
+.serviceDetail-card img{
+    width:100%;
+    height: 500px;
+    border-radius: 20px;
+    padding: 5px;
+}
